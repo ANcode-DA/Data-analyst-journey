@@ -1,26 +1,57 @@
-# Excel Practice Log
+# Excel Repository
 
-Practice exercises built while studying Excel/Sheets through the 
-Google Data Analytics Certificate and self-directed Kaggle datasets.
+A collection of Excel practice, exercises, and analytical work developed while learning data analytics through the Google Data Analytics Professional Certificate and independent practice.
 
-## Skills demonstrated
-- [ ] Core formulas (VLOOKUP, INDEX+MATCH, SUMIF/COUNTIF/AVERAGEIF)
-- [ ] Text functions
-- [ ] Conditional formatting
+## Skills Demonstrated
+
+- [ ] Data cleaning
+- [ ] Data validation
+- [ ] Excel formulas and functions
+- [ ] Sorting and filtering
 - [ ] PivotTables
-- [ ] Data cleaning (type checks, formatting, duplicates, missing values)
-- [ ] Wide vs. long format reshaping
-- [ ] Power Query (if/when covered)
+- [ ] Data analysis
+- [ ] Charts and reporting
+- [ ] Translating business questions into analytical tasks
 
-## Progress log
+## Learning & Certifications
 
-### Week of [date]
-[What you studied, what dataset you practiced on, link to the exercise folder]
+### Google Data Analytics Professional Certificate
 
-### Week of [date]
-[...]
+**5 of 8 courses complete**
 
-## Exercises index
-| Folder | Topic | Dataset used | Date |
-|---|---|---|---|
-| [cleaning-exercise-01](./cleaning-exercise-01/) | Missing data + type mismatches | [dataset name] | [date] |
+[View my Coursera learning progress](https://www.coursera.org/my-learning)
+
+### Certificates
+
+Completed certificates are also showcased on my LinkedIn profile.
+
+[View my LinkedIn profile](YOUR_LINKEDIN_URL)
+
+## Independent Excel Practice
+
+| Topic | Status | Work |
+|---|---|---|
+| Basic formulas | 🔄 | Practice exercises |
+| Data cleaning | 🔄 | Practice exercises |
+| Data validation | ⬜ | Not started |
+| PivotTables | ⬜ | Not started |
+| Data analysis | ⬜ | Not started |
+| Charts & reporting | ⬜ | Not started |
+
+## Projects
+
+| Project | Skills Used | Status |
+|---|---|---|
+| [Future project] | [Skills] | Not started |
+
+## Learning Approach
+
+For each major Excel topic, I aim to progress through:
+
+**Learn → Practice → Apply → Explain → Document**
+
+The goal is not only to learn Excel functions and tools, but to become capable of using Excel to clean data, investigate business questions, and communicate useful findings.
+
+## Current Focus
+
+**Sharpening my data cleaning and analytical skills using Excel while building practical projects from real-world datasets.**
